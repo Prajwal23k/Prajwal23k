@@ -45,7 +45,7 @@
 
 <br clear="both">
 
-https://github.com/Prajwal23k/Prajwal23k/blob/output/github-contribution-grid-snake.svg
+<img src="https://raw.githubusercontent.com/Prajwal23k/Prajwal23k/output/snake.svg" alt="Snake animation" />
 
 
 ###
