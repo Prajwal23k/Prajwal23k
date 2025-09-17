@@ -9,8 +9,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prajwal23k&show_icons=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwal23k&layout=compact&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
+  <img src="http://gitstatssy.netlify.app/" height="150" alt="GitHub Stats" />
+  <img src="http://gitstatssy.netlify.app/" height="150" alt="Top Languages" />
 </div>
 
 ---
