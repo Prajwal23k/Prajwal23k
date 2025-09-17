@@ -9,8 +9,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="http://gitstatssy.netlify.app/" height="150" alt="GitHub Stats" />
-  <img src="http://gitstatssy.netlify.app/" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Prajwal123k&show_icons=true&theme=radical" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Prajwal123k&show_icons=true&theme=radical" height="150" alt="Top Languages" />
 </div>
 
 ---
