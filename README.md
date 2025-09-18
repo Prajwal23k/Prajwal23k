@@ -5,17 +5,15 @@
 <h2 align="left">Hi 👋! I'm Prajwal Kasbale, A Java developer currently pursuing my B.Tech degree in IT</h2>
 
 ---
-<!--
-### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prajwal123k&show_icons=true&theme=radical" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Prajwal123k&show_icons=true&theme=radical" height="150" alt="Top Languages" />
-</div>
+![GitHub stats](https://github-readme-stats-mauve-iota-88.vercel.app/api?username=Prajwal23k&show_icons=true&theme=jolly)
 
----
 
-<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" /> -->
+![Top Langs](https://github-readme-stats-mauve-iota-88.vercel.app/api/top-langs/?username=Prajwal23k&layout=compact&theme=jolly)
+
+<!-- ![Trophies](https://github-profile-trophy.vercel.app/?username=Prajwal23k&theme=tokyonight) -->
+
+
 
 ### 🚀 Tech Stack
 
