@@ -3,7 +3,7 @@
 </p>
 
 <h2 align="left">Hi 👋! I'm Prajwal Kasbale, A Java developer currently pursuing my B.Tech degree in IT</h2>
-
+ 
 ---
 
 ![GitHub stats](https://github-readme-stats-mauve-iota-88.vercel.app/api?username=Prajwal23k&show_icons=true&theme=jolly)
