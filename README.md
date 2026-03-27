@@ -8,7 +8,7 @@
     </a>
   </p>
 
- > 🌐 **Check out my full interactive profile → [prajwal23k.github.io](https://Prajwal23k.github.io/Prajwal23k)**
+ 🌐 **Check out my full interactive profile → [prajwal23k.github.io](https://Prajwal23k.github.io/Prajwal23k)**
 
   <p>
     <img src="https://img.shields.io/badge/🟢_Open_to_Opportunities-111118?style=flat-square&color=111118&logoColor=22c55e" alt="Status" />
